@@ -1,2 +1,2 @@
 # NewtonDividedDiff
-Just a simple implementation of Newton Divided Difference
+Just a simple Python implementation of Newton Divided Difference.
